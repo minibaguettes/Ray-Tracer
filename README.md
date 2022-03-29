@@ -2,6 +2,8 @@
 
 For Professor Tamar Shinar's CS130 class: Computer Graphics 
 
+> https://www.cs.ucr.edu/~shinar/courses/cs130/proj-rt.html
+
 ## Overview
 
 For this project, a basic ray tracer was implemented.  Images of the expected results are stored in the images directory, 
